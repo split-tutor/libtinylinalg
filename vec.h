@@ -1,0 +1,1 @@
+// vec.h - vector class interfaces
